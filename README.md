@@ -1,2 +1,1 @@
-# Thief-and-Police
-C project
+# C-project---Thief-and-Police
